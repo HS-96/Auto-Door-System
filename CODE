@@ -4,23 +4,9 @@
 
 int integrated_door = 0;
 
-int i = 0;
-
-int j = 0;
-
 int servo_motor = 0;
 
-int k = 0;
 
-int m = 0;
-
-int n = 0;
-
-int o = 0;
-
-int p = 0;
-
-int q = 0;
 
 long readUltrasonicDistance(int triggerPin, int echoPin)
 {
